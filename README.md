@@ -1,14 +1,14 @@
 # CryptoLock（加密锁） - 本地安全加密工具套件
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/laddzhao/CryptoLock/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/laddzhao/CryptoLock)](https://github.com/laddzhao/CryptoLock/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/laddzhao/cryptolock)](https://github.com/laddzhao/CryptoLock/issues)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/laddzhao/cryptolock/pulls)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/zlyup/CryptoLock/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/zlyup/CryptoLock)](https://github.com/zlyup/CryptoLock/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/zlyup/cryptolock)](https://github.com/zlyup/CryptoLock/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/zlyup/cryptolock/pulls)
 
 ## 🌟 项目简介
 
 CryptoLock（加密锁） 是一个完全在浏览器中运行的本地加密/解密和文件校验工具套件。所有操作都在本地执行，不上传任何数据到服务器，确保您的数据安全。
-![image](https://laddzhao.github.io/CryptoLock/CryptoLock.png)
+![image](https://zlyup.github.io/CryptoLock/CryptoLock.png)
 
 ## ✨ 功能特性
 
@@ -28,10 +28,10 @@ CryptoLock（加密锁） 是一个完全在浏览器中运行的本地加密/�
 ## 🚀 快速开始
 
 ### 一键下载
-您可以直接下载完整的项目压缩包：[Download CryptoLock_Project.zip](https://github.com/laddzhao/CryptoLock/releases/download/v1.0.0/CryptoLock-main.zip)
+您可以直接下载完整的项目压缩包：[Download CryptoLock_Project.zip](https://github.com/zlyup/CryptoLock/releases/download/v1.0.0/CryptoLock-main.zip)
 
 ### 在线使用
-也可以直接在线体验：[加密工具](https://laddzhao.github.io/CryptoLock) | [文件校验工具](https://laddzhao.github.io/CryptoLock/verify.html)
+也可以直接在线体验：[加密工具](https://zlyup.github.io/CryptoLock) | [文件校验工具](https://zlyup.github.io/CryptoLock/verify.html)
 
 ### 方法一：直接使用
 1. 下载或克隆本项目
@@ -41,7 +41,7 @@ CryptoLock（加密锁） 是一个完全在浏览器中运行的本地加密/�
 ### 方法二：从 GitHub 使用
 访问项目的 GitHub Pages（如果已配置）或在本地运行：
 ```bash
-git clone https://github.com/laddzhao/CryptoLock.git
+git clone https://github.com/zlyup/CryptoLock.git
 cd CryptoLock
 # 使用本地服务器运行（推荐）
 python -m http.server 8000
